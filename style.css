@@ -1,0 +1,8 @@
+
+body{
+    background: url("./Fondo Espacio.JPG") no-repeat;
+    -webkit-background-size: cover;
+    -moz-backgroun-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
